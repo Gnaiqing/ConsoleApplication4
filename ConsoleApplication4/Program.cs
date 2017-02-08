@@ -9,6 +9,8 @@ namespace ConsoleApplication4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("this is a message");
+            Console.ReadKey();
         }
     }
 }
