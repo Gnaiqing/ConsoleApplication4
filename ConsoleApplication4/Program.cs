@@ -11,7 +11,6 @@ namespace ConsoleApplication4
         static void Main(string[] args)
         {
             Console.WriteLine("this is a message");
-            Console.WriteLine("this is another message");
             Console.ReadKey();
         }
     }
